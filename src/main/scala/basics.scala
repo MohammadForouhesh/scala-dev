@@ -6,5 +6,5 @@ def isInteresting(numbers: List[Int], t: Int, k: Int): Boolean = {
             return true
 
     }
-    return false
+    false
 }
